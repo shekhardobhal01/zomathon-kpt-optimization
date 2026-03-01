@@ -82,11 +82,11 @@ Evaluation Metrics:
 
 ## Business Impact
 
-✔ Reduced ETA prediction error  
-✔ Reduced early rider arrival  
-✔ Improved fleet utilization  
-✔ Scalable across 300K+ merchants  
-✔ No additional hardware required  
+- Reduced ETA prediction error  
+- Reduced early rider arrival  
+- Improved fleet utilization  
+- Scalable across 300K+ merchants  
+- No additional hardware required  
 
 ---
 
